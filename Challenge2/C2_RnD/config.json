@@ -1,0 +1,6 @@
+{
+  "InputFilePath": "./blocklist.txt",
+  "OutputDirectory": "./output",
+  "EnableTimestamps": true,
+  "TimestampFormat": "MM-dd-yyyy_HHmmss"
+}

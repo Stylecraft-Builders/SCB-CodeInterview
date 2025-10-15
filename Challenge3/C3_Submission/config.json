@@ -1,0 +1,6 @@
+{
+  "ApiKey": "e4cf7104c8a21657e3ddd3fd8bd247dc",
+  "UrlTemplate": "https://api.stlouisfed.org/fred/series/observations?series_id=PCOPPUSDM&api_key={key}&file_type=json",
+  "JsonOutputDir": "S:/Challenge3/copper_prices",
+  "LogFilePath": "S:/Challenge3/copper_prices/copper_prices.log"
+}
